@@ -1,0 +1,11 @@
+.title-left, .img-left{
+    text-align: left;
+}
+
+.title-right, .img-right{
+    text-align: right;
+}
+
+.title-center, .img-center, .text-center{
+    text-align: center;
+}
