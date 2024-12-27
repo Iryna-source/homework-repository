@@ -1,4 +1,4 @@
-.title-left, .img-left{
+.title-left, .img-left, .text-left{
     text-align: left;
 }
 
@@ -9,3 +9,4 @@
 .title-center, .img-center, .text-center{
     text-align: center;
 }
+
