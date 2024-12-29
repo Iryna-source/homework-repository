@@ -15,7 +15,7 @@ main {
     background-color: white;
     padding: 56px 24px;
     border-radius: 20px;
-    overflow: auto;
+    overflow: hidden;
 }
 .icon {
     width: 30px;
@@ -55,7 +55,7 @@ text-align: center;
 .img-block{
     width: 74px
     height: 74px;
-    background-color: #ACAFB5; 
+    background: rgb(239, 239, 239);
     border-radius: 12px;
     padding: 18px 19px 18px 19px;
     margin-bottom: 8px;
@@ -68,8 +68,8 @@ text-align: center;
 .img-block-drinks{
     width: 74px
     height: 74px;
-    background-color: #ACAFB5; 
     border-radius: 12px;
+    background: rgb(239, 239, 239);
     padding: 17px 19px 17px 19px;
     margin-bottom: 8px;
 }
@@ -92,9 +92,10 @@ text-align: center;
 .product-card{
     width: 316px;
     height: 88px;
-    box-shadow: 0px 0px 4px gray;
+    border-radius: 10px;
+    box-shadow: 0px 0px 4px 0px rgb(230, 230, 230);
     margin-bottom: 12px;
-    border-radius: 9px;
+
 }
 
 
